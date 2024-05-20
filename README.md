@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm David Rodriguez Barrios, <br>A software engineering student at the University of Calgary.<br>I have mostly coded in  C, C++, Python, Java, and React but I've worked with many more languages beyond those mentioned. <br>When I'm not  working on projects  you can find me actively involved in  hackathons and working on open sources collaborations. <br>Feel free to connect with me on LinkedIn or explore my GitHub to learn more about my work.
+Hello, I'm David Barrios!<br>Thanks for checking out my GitHub. <br>I'm a software engineering student at the University of Calgary.<br>I have mostly coded in  C, C++, Python, Java, and JavaScript. <br>When I'm not  working on projects  you can find me actively involved in  hackathons and working on open source collaborations. <br>Feel free to connect with me on LinkedIn or explore my GitHub to learn more about my work.
 
 
 ## 🌐 Socials:
@@ -14,7 +14,7 @@ Databases:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://your-postgresql-project-link)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
-Devops:
+DevOps:
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)]([https://your-docker-project-link](https://www.docker.com/))
  [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)]([https://your-kubernetes-project-link](https://kubernetes.io/))
 
