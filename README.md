@@ -26,7 +26,7 @@ Others:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=David-Rodriguez-Barrios&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=David-Rodriguez-Barrios&theme=gruvbox&hide_border=true)<br/>
 
 
